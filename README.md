@@ -1,16 +1,13 @@
-### Hi there 👋
+# Launcher Paladium Solo
 
-<!--
-**PalaSolo/PalaSolo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Vous connaissait surment paladium et ba voici sa version solo.
 
-Here are some ideas to get you started:
+## Comment utiliser le launcher
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+1. Téléchargez et exécutez le launcher.
+2. Entrez votre nom d'utilisateur puis ecris le chiffre **1** pour jouer
+3. Entrez la ram á allouer (Exemple 1004) puis appuiez sur ENTER.
+4. Bon Jeux !
+
+Pour plus d'informations, consultez la documentation dans le site (Maintenance).
+

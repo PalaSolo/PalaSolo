@@ -1,4 +1,4 @@
-# Launcher Paladium Solo
+# PalaSolo V8.5
 
 Vous connaissait surment paladium et ba voici sa version solo en v8.5.
 
@@ -11,3 +11,4 @@ Vous connaissait surment paladium et ba voici sa version solo en v8.5.
 
 Pour plus d'informations, consultez la documentation dans le site (Maintenance).
 
+#### [Telecharger le launcher](https://github.com/PalaSolo/PalaSolo/releases/tag/lastversion)

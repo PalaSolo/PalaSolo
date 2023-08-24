@@ -1,6 +1,6 @@
 # Launcher Paladium Solo
 
-Vous connaissait surment paladium et ba voici sa version solo.
+Vous connaissait surment paladium et ba voici sa version solo en v8.5.
 
 ## Comment utiliser le launcher
 

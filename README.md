@@ -9,6 +9,8 @@ Vous connaissait surment paladium et ba voici sa version solo en v8.5.
 3. Entrez la ram á allouer (Exemple 1004) puis appuiez sur ENTER.
 4. Bon Jeux !
 
+.net 5 est requit. [Telecharger ici](https://dotnet.microsoft.com/en-us/download/dotnet/thank-you/sdk-5.0.408-windows-x64-installer)
+
 Pour plus d'informations, consultez la documentation dans le site (Maintenance).
 
 #### [Telecharger le launcher](https://github.com/PalaSolo/PalaSolo/releases/tag/lastversion)
